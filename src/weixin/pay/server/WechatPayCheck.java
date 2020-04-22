@@ -1,3 +1,12 @@
+/**
+ * 微信支付-Java版本
+ * xiaochengxu.pay
+ * WechatPayConfig.java
+ * Ver0.0.1
+ * 2017年10月13日-下午12:48:53
+ * 2014~2020全智道(北京)科技有限公司-版权所有
+ * 
+ */
 package weixin.pay.server;
 
 import java.io.IOException;

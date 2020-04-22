@@ -1,6 +1,6 @@
 /**
  * 
- * 微信-公众号-封装接口JAVA版本
+ * 微信支付-Java版本
  * weixin.pay
  * WeixinPayCheck.java
  * Ver0.0.1
